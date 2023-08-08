@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Brandon!</h1>
 
 ## About Me
-I'm a second year software engineering student in Singapore Institute of Technology. 
+I'm a third year software engineering student in Singapore Institute of Technology. 
 
 ## Programming Knowledge
 ### Programming Languages, Databases, & Technologies
